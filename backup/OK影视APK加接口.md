@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://mrssms.github.io/666.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://mrssms.github.io/666.github.io</link></image><lastBuildDate>Fri, 09 Jan 2026 12:07:29 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>OK影视APK加接口</title><link>https://mrssms.github.io/666.github.io/post/OK-ying-shi-APK-jia-jie-kou.html</link><description>OK影视APK
+OK影视APK
 链接：https://pan.quark.cn/s/7d4bdc37ef85?pwd=GKqW
 提取码：GKqW
 单仓：
@@ -27,7 +26,7 @@ https://9877.kstore.space/AnotherD/api.json # 潇洒接口
 https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json # 香雅情
 https://bitbucket.org/xduo/duoapi/raw/master/xpg.json # 小苹果接口
 https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json # 宝盒VIP
-http://tv.nxog.top/m/111.php?ou=公众号欧歌app&amp;mz=all&amp;jar=all&amp;b=欧歌 # 欧歌
+http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=all&jar=all&b=欧歌 # 欧歌
 https://哪吒.live/ # 哪吒
 https://www.252035.xyz/z/FongMi.json # 真心
 http://www.meowtv.vip/tvbox.json # 喵影视
@@ -45,6 +44,4 @@ http://xhztv.top/dc/ # 小盒子多仓
 http://xhztv.top/DC.txt # 小盒子多仓（备）
 https://bitbucket.org/xduo/cool/raw/main/room.json # 多多影音
 https://qixing.myhkw.com/DC.txt # 七星宝盒
-http://xmbjm.fh4u.org/dc.txt # 拾光多仓。</description><guid isPermaLink="true">https://mrssms.github.io/666.github.io/post/OK-ying-shi-APK-jia-jie-kou.html</guid><pubDate>Fri, 09 Jan 2026 12:07:01 +0000</pubDate></item><item><title>小羽_0.8.3 高级版VPN</title><link>https://mrssms.github.io/666.github.io/post/xiao-yu-_0.8.3%20-gao-ji-ban-VPN.html</link><description>小羽_0.8.3 高级版，免费加速器
-
-https://pan.lanzoub.com/insaK396axif。</description><guid isPermaLink="true">https://mrssms.github.io/666.github.io/post/xiao-yu-_0.8.3%20-gao-ji-ban-VPN.html</guid><pubDate>Fri, 09 Jan 2026 11:21:11 +0000</pubDate></item><item><title>测试</title><link>https://mrssms.github.io/666.github.io/post/ce-shi.html</link><description>测试。</description><guid isPermaLink="true">https://mrssms.github.io/666.github.io/post/ce-shi.html</guid><pubDate>Fri, 02 Jan 2026 04:10:22 +0000</pubDate></item></channel></rss>
+http://xmbjm.fh4u.org/dc.txt # 拾光多仓
