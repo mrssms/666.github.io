@@ -1,2 +1,56 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>小妖精博客</title><link>https://mrssms.github.io/666.github.io</link><description>Blog </description><copyright>小妖精博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://mrssms.github.io/666.github.io</link></image><lastBuildDate>Mon, 27 Apr 2026 17:37:24 +0000</lastBuildDate><managingEditor>小妖精博客</managingEditor><ttl>60</ttl><webMaster>小妖精博客</webMaster></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>小妖精博客</title><link>https://mrssms.github.io/666.github.io</link><description>Blog </description><copyright>小妖精博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://mrssms.github.io/666.github.io</link></image><lastBuildDate>Tue, 28 Apr 2026 17:53:22 +0000</lastBuildDate><managingEditor>小妖精博客</managingEditor><ttl>60</ttl><webMaster>小妖精博客</webMaster><item><title>Uptodown商店，免谷歌，下载全球应用，免登录</title><link>https://mrssms.github.io/666.github.io/post/Uptodown-shang-dian-%EF%BC%8C-mian-gu-ge-%EF%BC%8C-xia-zai-quan-qiu-ying-yong-%EF%BC%8C-mian-deng-lu.html</link><description>
+【应 用 名 称】：Uptodown App Store（免登陆）
+【应 用 版 本】：6.99
+【应 用 大 小】：12.25M
+【应 用 介 绍】：Uptodown App Store是一个第三方的应用商店软件，提供了各种类型的应用程序和游戏下载服务。</description><guid isPermaLink="true">https://mrssms.github.io/666.github.io/post/Uptodown-shang-dian-%EF%BC%8C-mian-gu-ge-%EF%BC%8C-xia-zai-quan-qiu-ying-yong-%EF%BC%8C-mian-deng-lu.html</guid><pubDate>Sat, 10 Jan 2026 00:43:23 +0000</pubDate></item><item><title>ai克隆任意网站，开源项目叫open-lovable</title><link>https://mrssms.github.io/666.github.io/post/ai-ke-long-ren-yi-wang-zhan-%EF%BC%8C-kai-yuan-xiang-mu-jiao-open-lovable.html</link><description> 每天认识一款高质量开源项目。</description><guid isPermaLink="true">https://mrssms.github.io/666.github.io/post/ai-ke-long-ren-yi-wang-zhan-%EF%BC%8C-kai-yuan-xiang-mu-jiao-open-lovable.html</guid><pubDate>Fri, 09 Jan 2026 12:07:39 +0000</pubDate></item><item><title>OK影视APK加接口</title><link>https://mrssms.github.io/666.github.io/post/OK-ying-shi-APK-jia-jie-kou.html</link><description>OK影视APK
+链接：https://pan.quark.cn/s/7d4bdc37ef85?pwd=GKqW
+提取码：GKqW
+单仓：
+http://www.饭太硬.com/tv # 饭太硬接口
+http://肥猫.com # 肥猫接口
+http://fty.xxooo.cf/tv # 神秘哥哥们备用接口
+https://毒盒.com/tv/ # 毒盒
+http://我不是.摸鱼儿.com # 摸鱼儿接口
+http://ok321.top/tv # OK影视内部接口
+http://ok321.top/ok # OK影视公开接口
+http://tvbox.王二小放牛娃.top # 王小二放牛娃接口
+https://www.yingm.cc/dm/dm.json # 动漫城接口
+http://home.jundie.top:81/top98.json # 俊佬接口
+http://cdn.qiaoji8.com/tvbox.json # 巧记
+https://cdn.gitmirror.com/bb/xduo/libs/master/index.json # 道长接口
+https://gitee.com/free-kingdom/dc/raw/main/T4.json # T4接口
+https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json # 南风接口
+https://tv.菜妮丝.top # 菜妮丝接口
+https://api.hgyx.vip/hgyx.json # HG接口
+https://dxawi.github.io/0/0.json # dxawi
+http://www.mitvbox.xyz/小米/DEMO.json # 小米
+http://xhztv.top/xhz # 小盒子单仓
+http://xhztv.top/4k.json # 小盒子4K
+https://9877.kstore.space/AnotherD/api.json # 潇洒接口
+https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json # 香雅情
+https://bitbucket.org/xduo/duoapi/raw/master/xpg.json # 小苹果接口
+https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json # 宝盒VIP
+http://tv.nxog.top/m/111.php?ou=公众号欧歌app&amp;mz=all&amp;jar=all&amp;b=欧歌 # 欧歌
+https://哪吒.live/ # 哪吒
+https://www.252035.xyz/z/FongMi.json # 真心
+http://www.meowtv.vip/tvbox.json # 喵影视
+http://fmys.top/fmys.json # 驸马
+https:/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json # 高天流云
+https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/1.json # 青龙
+https://raw.githubusercontent.com/maoystv/6/main/000.json # 分享
+https://cnb.cool/fish2018/duanju/-/git/raw/main/tvbox.json # 短剧
+
+多仓：
+https://www.iyouhun.com/tv/dc # 游魂多仓
+https://www.iyouhun.com/tv/yh # 游魂多仓（备）
+https://9877.kstore.space/AnotherDS/api.json # 潇洒单仓
+http://xhztv.top/dc/ # 小盒子多仓
+http://xhztv.top/DC.txt # 小盒子多仓（备）
+https://bitbucket.org/xduo/cool/raw/main/room.json # 多多影音
+https://qixing.myhkw.com/DC.txt # 七星宝盒
+http://xmbjm.fh4u.org/dc.txt # 拾光多仓。</description><guid isPermaLink="true">https://mrssms.github.io/666.github.io/post/OK-ying-shi-APK-jia-jie-kou.html</guid><pubDate>Fri, 09 Jan 2026 12:07:01 +0000</pubDate></item><item><title>小羽_0.8.3 高级版VPN</title><link>https://mrssms.github.io/666.github.io/post/xiao-yu-_0.8.3%20-gao-ji-ban-VPN.html</link><description>小羽_0.8.3 高级版，免费加速器
+
+https://pan.lanzoub.com/insaK396axif
+
+QQ群 1056408666。</description><guid isPermaLink="true">https://mrssms.github.io/666.github.io/post/xiao-yu-_0.8.3%20-gao-ji-ban-VPN.html</guid><pubDate>Fri, 09 Jan 2026 11:21:11 +0000</pubDate></item></channel></rss>
